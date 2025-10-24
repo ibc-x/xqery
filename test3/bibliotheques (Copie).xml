@@ -1,0 +1,5003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliotheque>
+    <livre id="1">
+        <titre>Agent every</titre>
+        <auteur>
+            <nom>Walker</nom>
+            <prenom>Jill</prenom>
+            <numero>9935</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="2">
+        <titre>Opportunity all</titre>
+        <auteur>
+            <nom>Davis</nom>
+            <prenom>Jesse</prenom>
+            <numero>1434</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="3">
+        <titre>Current practice nation determine operation</titre>
+        <auteur>
+            <nom>Pacheco</nom>
+            <prenom>Adam</prenom>
+            <numero>3615</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="4">
+        <titre>Future choice whatever from</titre>
+        <auteur>
+            <nom>Davis</nom>
+            <prenom>Colin</prenom>
+            <numero>6635</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="5">
+        <titre>Enough analysis least by two</titre>
+        <auteur>
+            <nom>Miller</nom>
+            <prenom>Kelly</prenom>
+            <numero>6925</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="6">
+        <titre>Court attorney product significant world</titre>
+        <auteur>
+            <nom>Wyatt</nom>
+            <prenom>Michelle</prenom>
+            <numero>7227</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="7">
+        <titre>Law street class</titre>
+        <auteur>
+            <nom>Kelly</nom>
+            <prenom>Elizabeth</prenom>
+            <numero>2169</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="8">
+        <titre>Play move each left establish</titre>
+        <auteur>
+            <nom>Schaefer</nom>
+            <prenom>Hailey</prenom>
+            <numero>4598</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="9">
+        <titre>Successful simply director allow</titre>
+        <auteur>
+            <nom>Stewart</nom>
+            <prenom>Joseph</prenom>
+            <numero>4456</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="10">
+        <titre>Then fire pretty how trip</titre>
+        <auteur>
+            <nom>Ellis</nom>
+            <prenom>Joseph</prenom>
+            <numero>5040</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="11">
+        <titre>Much section investment on gun</titre>
+        <auteur>
+            <nom>Osborn</nom>
+            <prenom>Devon</prenom>
+            <numero>9085</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="12">
+        <titre>Sense technology</titre>
+        <auteur>
+            <nom>Hernandez</nom>
+            <prenom>Ernest</prenom>
+            <numero>7916</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="13">
+        <titre>As high you more wife</titre>
+        <auteur>
+            <nom>Valencia</nom>
+            <prenom>Alexander</prenom>
+            <numero>2876</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="14">
+        <titre>Seem shoulder future fall citizen</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Jennifer</prenom>
+            <numero>5315</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="15">
+        <titre>Seven medical blood personal</titre>
+        <auteur>
+            <nom>Skinner</nom>
+            <prenom>William</prenom>
+            <numero>4258</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="16">
+        <titre>Hear claim well</titre>
+        <auteur>
+            <nom>Nielsen</nom>
+            <prenom>Samantha</prenom>
+            <numero>6310</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="17">
+        <titre>Affect upon these story</titre>
+        <auteur>
+            <nom>Parker</nom>
+            <prenom>Brian</prenom>
+            <numero>2290</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="18">
+        <titre>Rule staff</titre>
+        <auteur>
+            <nom>Spence</nom>
+            <prenom>Amanda</prenom>
+            <numero>3060</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="19">
+        <titre>Process water close</titre>
+        <auteur>
+            <nom>Rose</nom>
+            <prenom>Catherine</prenom>
+            <numero>4470</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="20">
+        <titre>Sense ready require human public</titre>
+        <auteur>
+            <nom>Brooks</nom>
+            <prenom>Rachel</prenom>
+            <numero>8397</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="21">
+        <titre>Easy ask again</titre>
+        <auteur>
+            <nom>Spencer</nom>
+            <prenom>Brianna</prenom>
+            <numero>1117</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="22">
+        <titre>Remain arrive</titre>
+        <auteur>
+            <nom>Jones</nom>
+            <prenom>Anthony</prenom>
+            <numero>6413</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="23">
+        <titre>Method everything</titre>
+        <auteur>
+            <nom>Washington</nom>
+            <prenom>Amber</prenom>
+            <numero>8744</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="24">
+        <titre>Six space couple</titre>
+        <auteur>
+            <nom>Davis</nom>
+            <prenom>Ryan</prenom>
+            <numero>7939</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="25">
+        <titre>Level rock pull worker</titre>
+        <auteur>
+            <nom>Garcia</nom>
+            <prenom>Richard</prenom>
+            <numero>6559</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="26">
+        <titre>Eat couple</titre>
+        <auteur>
+            <nom>West</nom>
+            <prenom>Robert</prenom>
+            <numero>5563</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="27">
+        <titre>Economic type kitchen technology</titre>
+        <auteur>
+            <nom>Pierce</nom>
+            <prenom>Brent</prenom>
+            <numero>9856</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="28">
+        <titre>Why unit</titre>
+        <auteur>
+            <nom>Allison</nom>
+            <prenom>Gabriel</prenom>
+            <numero>8956</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="29">
+        <titre>Degree husband around her</titre>
+        <auteur>
+            <nom>Galloway</nom>
+            <prenom>Joseph</prenom>
+            <numero>8454</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="30">
+        <titre>Institution whatever yet</titre>
+        <auteur>
+            <nom>Peters</nom>
+            <prenom>Jennifer</prenom>
+            <numero>3536</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="31">
+        <titre>Father why often</titre>
+        <auteur>
+            <nom>Daniels</nom>
+            <prenom>Julie</prenom>
+            <numero>1936</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="32">
+        <titre>Once me</titre>
+        <auteur>
+            <nom>Farrell</nom>
+            <prenom>Eric</prenom>
+            <numero>9320</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="33">
+        <titre>Surface attention</titre>
+        <auteur>
+            <nom>Jones</nom>
+            <prenom>Michelle</prenom>
+            <numero>7615</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="34">
+        <titre>Walk now often</titre>
+        <auteur>
+            <nom>Williams</nom>
+            <prenom>Christopher</prenom>
+            <numero>9565</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="35">
+        <titre>Various daughter respond draw</titre>
+        <auteur>
+            <nom>Foster</nom>
+            <prenom>Emily</prenom>
+            <numero>5915</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="36">
+        <titre>First sell authority leader</titre>
+        <auteur>
+            <nom>Murillo</nom>
+            <prenom>Wendy</prenom>
+            <numero>2200</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="37">
+        <titre>Defense enter value thing these</titre>
+        <auteur>
+            <nom>Wood</nom>
+            <prenom>Eric</prenom>
+            <numero>9900</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="38">
+        <titre>Particularly would pressure</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Lisa</prenom>
+            <numero>5905</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="39">
+        <titre>Voice care</titre>
+        <auteur>
+            <nom>Wilson</nom>
+            <prenom>Daniel</prenom>
+            <numero>3546</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="40">
+        <titre>Example decision garden</titre>
+        <auteur>
+            <nom>Watts</nom>
+            <prenom>Melissa</prenom>
+            <numero>9280</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="41">
+        <titre>Economy traditional anything plant</titre>
+        <auteur>
+            <nom>Calderon</nom>
+            <prenom>Bradley</prenom>
+            <numero>6464</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="42">
+        <titre>Pm energy scientist</titre>
+        <auteur>
+            <nom>Arnold</nom>
+            <prenom>Ronald</prenom>
+            <numero>1158</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="43">
+        <titre>Away third</titre>
+        <auteur>
+            <nom>Mckee</nom>
+            <prenom>Amy</prenom>
+            <numero>7049</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="44">
+        <titre>Need involve among half value</titre>
+        <auteur>
+            <nom>Stanton</nom>
+            <prenom>Bill</prenom>
+            <numero>6862</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="45">
+        <titre>Radio project government</titre>
+        <auteur>
+            <nom>Castro</nom>
+            <prenom>Nancy</prenom>
+            <numero>3532</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="46">
+        <titre>Ten wish specific</titre>
+        <auteur>
+            <nom>Keith</nom>
+            <prenom>Angel</prenom>
+            <numero>6442</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="47">
+        <titre>Soon ten specific environment</titre>
+        <auteur>
+            <nom>Cobb</nom>
+            <prenom>Daniel</prenom>
+            <numero>1634</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="48">
+        <titre>Develop staff least figure</titre>
+        <auteur>
+            <nom>Pope</nom>
+            <prenom>Jeremy</prenom>
+            <numero>1387</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="49">
+        <titre>Huge everything attorney</titre>
+        <auteur>
+            <nom>Ayala</nom>
+            <prenom>Michael</prenom>
+            <numero>9346</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="50">
+        <titre>Quickly such former agree</titre>
+        <auteur>
+            <nom>Wiley</nom>
+            <prenom>Jose</prenom>
+            <numero>5349</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="51">
+        <titre>Board its</titre>
+        <auteur>
+            <nom>Chandler</nom>
+            <prenom>Lee</prenom>
+            <numero>9379</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="52">
+        <titre>History office</titre>
+        <auteur>
+            <nom>Scott</nom>
+            <prenom>Jeanne</prenom>
+            <numero>1027</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="53">
+        <titre>Understand Mrs rest score provide</titre>
+        <auteur>
+            <nom>Diaz</nom>
+            <prenom>Chad</prenom>
+            <numero>6409</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="54">
+        <titre>Finish summer rest feel finally</titre>
+        <auteur>
+            <nom>Ortiz</nom>
+            <prenom>Richard</prenom>
+            <numero>5844</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="55">
+        <titre>Camera inside wait quality total</titre>
+        <auteur>
+            <nom>Gilbert</nom>
+            <prenom>Kevin</prenom>
+            <numero>9977</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="56">
+        <titre>Fight decision</titre>
+        <auteur>
+            <nom>Floyd</nom>
+            <prenom>Catherine</prenom>
+            <numero>6279</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="57">
+        <titre>Kid put memory soldier</titre>
+        <auteur>
+            <nom>Moyer</nom>
+            <prenom>Jill</prenom>
+            <numero>2389</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="58">
+        <titre>Middle plan friend</titre>
+        <auteur>
+            <nom>Cardenas</nom>
+            <prenom>Karen</prenom>
+            <numero>6085</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="59">
+        <titre>Southern challenge animal</titre>
+        <auteur>
+            <nom>Riggs</nom>
+            <prenom>Cheryl</prenom>
+            <numero>2193</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="60">
+        <titre>Increase picture create recent</titre>
+        <auteur>
+            <nom>Snyder</nom>
+            <prenom>John</prenom>
+            <numero>1090</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="61">
+        <titre>Sing despite</titre>
+        <auteur>
+            <nom>Brock</nom>
+            <prenom>Heather</prenom>
+            <numero>8611</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="62">
+        <titre>Newspaper true</titre>
+        <auteur>
+            <nom>Martinez</nom>
+            <prenom>Dennis</prenom>
+            <numero>8612</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="63">
+        <titre>Write other wear through partner</titre>
+        <auteur>
+            <nom>Ball</nom>
+            <prenom>William</prenom>
+            <numero>9976</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="64">
+        <titre>Today season listen else</titre>
+        <auteur>
+            <nom>Wright</nom>
+            <prenom>Dana</prenom>
+            <numero>9540</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="65">
+        <titre>Phone ever back experience</titre>
+        <auteur>
+            <nom>Nelson</nom>
+            <prenom>Luis</prenom>
+            <numero>9849</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="66">
+        <titre>Catch discuss</titre>
+        <auteur>
+            <nom>Benson</nom>
+            <prenom>Jasmine</prenom>
+            <numero>2052</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="67">
+        <titre>Imagine my indeed deal</titre>
+        <auteur>
+            <nom>Fisher</nom>
+            <prenom>Rebecca</prenom>
+            <numero>1320</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="68">
+        <titre>Herself accept goal send table</titre>
+        <auteur>
+            <nom>Ashley</nom>
+            <prenom>Robert</prenom>
+            <numero>9947</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="69">
+        <titre>Today major event magazine home</titre>
+        <auteur>
+            <nom>Caldwell</nom>
+            <prenom>Lauren</prenom>
+            <numero>3704</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="70">
+        <titre>Try wonder move trade</titre>
+        <auteur>
+            <nom>Vargas</nom>
+            <prenom>Elizabeth</prenom>
+            <numero>2375</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="71">
+        <titre>Career left anyone here</titre>
+        <auteur>
+            <nom>Lewis</nom>
+            <prenom>Mark</prenom>
+            <numero>7211</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="72">
+        <titre>Sell story edge</titre>
+        <auteur>
+            <nom>Miller</nom>
+            <prenom>Andrew</prenom>
+            <numero>9837</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="73">
+        <titre>Yourself glass</titre>
+        <auteur>
+            <nom>Santos</nom>
+            <prenom>Kimberly</prenom>
+            <numero>1659</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="74">
+        <titre>Wear current</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Elijah</prenom>
+            <numero>3068</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="75">
+        <titre>Prove nor design record</titre>
+        <auteur>
+            <nom>Wang</nom>
+            <prenom>Gary</prenom>
+            <numero>2876</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="76">
+        <titre>Who blue agent</titre>
+        <auteur>
+            <nom>Collins</nom>
+            <prenom>Erica</prenom>
+            <numero>7149</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="77">
+        <titre>Walk cup option store</titre>
+        <auteur>
+            <nom>Sanchez</nom>
+            <prenom>Heidi</prenom>
+            <numero>5941</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="78">
+        <titre>South someone not American mouth</titre>
+        <auteur>
+            <nom>Stanley</nom>
+            <prenom>Casey</prenom>
+            <numero>6590</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="79">
+        <titre>Support state</titre>
+        <auteur>
+            <nom>Garcia</nom>
+            <prenom>Susan</prenom>
+            <numero>8532</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="80">
+        <titre>Itself safe whole</titre>
+        <auteur>
+            <nom>Nelson</nom>
+            <prenom>Lindsey</prenom>
+            <numero>9817</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="81">
+        <titre>Let stay or focus</titre>
+        <auteur>
+            <nom>Sanchez</nom>
+            <prenom>Sarah</prenom>
+            <numero>5569</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="82">
+        <titre>During let particular her</titre>
+        <auteur>
+            <nom>Johnson</nom>
+            <prenom>Melissa</prenom>
+            <numero>3979</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="83">
+        <titre>Deep something future they</titre>
+        <auteur>
+            <nom>Haynes</nom>
+            <prenom>Joshua</prenom>
+            <numero>1166</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="84">
+        <titre>Way beat result major serve</titre>
+        <auteur>
+            <nom>Vaughn</nom>
+            <prenom>Debbie</prenom>
+            <numero>9041</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="85">
+        <titre>Society behavior develop reality</titre>
+        <auteur>
+            <nom>Torres</nom>
+            <prenom>Bonnie</prenom>
+            <numero>8753</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="86">
+        <titre>Most international second former reflect</titre>
+        <auteur>
+            <nom>Nelson</nom>
+            <prenom>John</prenom>
+            <numero>2976</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="87">
+        <titre>Firm sea week</titre>
+        <auteur>
+            <nom>Vaughn</nom>
+            <prenom>James</prenom>
+            <numero>8933</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="88">
+        <titre>Right with modern</titre>
+        <auteur>
+            <nom>Campbell</nom>
+            <prenom>Craig</prenom>
+            <numero>4180</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="89">
+        <titre>Dinner conference add</titre>
+        <auteur>
+            <nom>Ferguson</nom>
+            <prenom>Joshua</prenom>
+            <numero>1893</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="90">
+        <titre>Factor want point sell bill</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Justin</prenom>
+            <numero>8843</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="91">
+        <titre>Future whole education technology</titre>
+        <auteur>
+            <nom>Wilson</nom>
+            <prenom>Cameron</prenom>
+            <numero>9056</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="92">
+        <titre>Officer rather</titre>
+        <auteur>
+            <nom>Hernandez</nom>
+            <prenom>Lisa</prenom>
+            <numero>5978</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="93">
+        <titre>Yes budget</titre>
+        <auteur>
+            <nom>Duran</nom>
+            <prenom>Catherine</prenom>
+            <numero>4697</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="94">
+        <titre>Herself training father open investment</titre>
+        <auteur>
+            <nom>Carroll</nom>
+            <prenom>Brian</prenom>
+            <numero>2625</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="95">
+        <titre>Personal enough ball</titre>
+        <auteur>
+            <nom>Allen</nom>
+            <prenom>Andrea</prenom>
+            <numero>3564</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="96">
+        <titre>Impact ready</titre>
+        <auteur>
+            <nom>Harrison</nom>
+            <prenom>Antonio</prenom>
+            <numero>5720</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="97">
+        <titre>Reflect law reach</titre>
+        <auteur>
+            <nom>Bradshaw</nom>
+            <prenom>Kristin</prenom>
+            <numero>4241</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="98">
+        <titre>Boy different chance enter</titre>
+        <auteur>
+            <nom>Thomas</nom>
+            <prenom>Brian</prenom>
+            <numero>6039</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="99">
+        <titre>See notice eye buy read</titre>
+        <auteur>
+            <nom>Lyons</nom>
+            <prenom>Sherri</prenom>
+            <numero>9199</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="100">
+        <titre>Management ball always it focus</titre>
+        <auteur>
+            <nom>Wright</nom>
+            <prenom>Christopher</prenom>
+            <numero>1339</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="101">
+        <titre>Office several compare</titre>
+        <auteur>
+            <nom>Stone</nom>
+            <prenom>Scott</prenom>
+            <numero>5557</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="102">
+        <titre>Young job sport</titre>
+        <auteur>
+            <nom>Costa</nom>
+            <prenom>Theodore</prenom>
+            <numero>7690</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="103">
+        <titre>Fly bit claim in</titre>
+        <auteur>
+            <nom>Simpson</nom>
+            <prenom>Elaine</prenom>
+            <numero>7561</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="104">
+        <titre>Already because education break significant</titre>
+        <auteur>
+            <nom>Hancock</nom>
+            <prenom>Mallory</prenom>
+            <numero>1018</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="105">
+        <titre>Left approach million performance material</titre>
+        <auteur>
+            <nom>Ramos</nom>
+            <prenom>Brett</prenom>
+            <numero>5375</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="106">
+        <titre>Capital explain thing machine ahead</titre>
+        <auteur>
+            <nom>Mccoy</nom>
+            <prenom>Lauren</prenom>
+            <numero>3594</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="107">
+        <titre>Nearly need behavior</titre>
+        <auteur>
+            <nom>Gay</nom>
+            <prenom>Robin</prenom>
+            <numero>8560</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="108">
+        <titre>Positive child usually</titre>
+        <auteur>
+            <nom>Carter</nom>
+            <prenom>Janice</prenom>
+            <numero>7807</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="109">
+        <titre>Woman during necessary himself</titre>
+        <auteur>
+            <nom>Weeks</nom>
+            <prenom>William</prenom>
+            <numero>3236</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="110">
+        <titre>Everybody so</titre>
+        <auteur>
+            <nom>Perry</nom>
+            <prenom>Sarah</prenom>
+            <numero>9318</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="111">
+        <titre>Star executive fear</titre>
+        <auteur>
+            <nom>Matthews</nom>
+            <prenom>Yolanda</prenom>
+            <numero>9022</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="112">
+        <titre>Land machine forward</titre>
+        <auteur>
+            <nom>Hines</nom>
+            <prenom>Nicholas</prenom>
+            <numero>6272</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="113">
+        <titre>Wonder draw him</titre>
+        <auteur>
+            <nom>Chase</nom>
+            <prenom>Robert</prenom>
+            <numero>6213</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="114">
+        <titre>Relate specific history professional</titre>
+        <auteur>
+            <nom>Hoover</nom>
+            <prenom>Tina</prenom>
+            <numero>9115</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="115">
+        <titre>Call whole</titre>
+        <auteur>
+            <nom>Rivera</nom>
+            <prenom>Craig</prenom>
+            <numero>8213</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="116">
+        <titre>Moment lead</titre>
+        <auteur>
+            <nom>Bowen</nom>
+            <prenom>Robert</prenom>
+            <numero>3529</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="117">
+        <titre>Light wide</titre>
+        <auteur>
+            <nom>Morgan</nom>
+            <prenom>Heather</prenom>
+            <numero>2315</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="118">
+        <titre>System teacher here first</titre>
+        <auteur>
+            <nom>Higgins</nom>
+            <prenom>Katherine</prenom>
+            <numero>9864</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="119">
+        <titre>Pay doctor</titre>
+        <auteur>
+            <nom>Cohen</nom>
+            <prenom>Karl</prenom>
+            <numero>4727</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="120">
+        <titre>Its better</titre>
+        <auteur>
+            <nom>Schultz</nom>
+            <prenom>Monique</prenom>
+            <numero>8269</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="121">
+        <titre>Really tough animal</titre>
+        <auteur>
+            <nom>Flynn</nom>
+            <prenom>Kelly</prenom>
+            <numero>7141</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="122">
+        <titre>Certainly most not society</titre>
+        <auteur>
+            <nom>Jackson</nom>
+            <prenom>Christian</prenom>
+            <numero>7267</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="123">
+        <titre>Raise marriage on discussion point</titre>
+        <auteur>
+            <nom>Stevens</nom>
+            <prenom>Elizabeth</prenom>
+            <numero>8622</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="124">
+        <titre>Quality citizen kid</titre>
+        <auteur>
+            <nom>Reed</nom>
+            <prenom>Briana</prenom>
+            <numero>7951</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="125">
+        <titre>Lead few yourself</titre>
+        <auteur>
+            <nom>Castaneda</nom>
+            <prenom>Daniel</prenom>
+            <numero>7248</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="126">
+        <titre>Grow fast recognize against stop</titre>
+        <auteur>
+            <nom>Foster</nom>
+            <prenom>Alan</prenom>
+            <numero>1803</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="127">
+        <titre>Seat strategy total simply discover</titre>
+        <auteur>
+            <nom>Pham</nom>
+            <prenom>Jeffery</prenom>
+            <numero>4115</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="128">
+        <titre>Economy sense should race carry</titre>
+        <auteur>
+            <nom>Davis</nom>
+            <prenom>Courtney</prenom>
+            <numero>1645</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="129">
+        <titre>Small almost half</titre>
+        <auteur>
+            <nom>Anderson</nom>
+            <prenom>Renee</prenom>
+            <numero>6352</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="130">
+        <titre>Compare car much will</titre>
+        <auteur>
+            <nom>Schmidt</nom>
+            <prenom>Robin</prenom>
+            <numero>3695</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="131">
+        <titre>Trial want whose</titre>
+        <auteur>
+            <nom>Phillips</nom>
+            <prenom>Monica</prenom>
+            <numero>2886</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="132">
+        <titre>While cell whom team</titre>
+        <auteur>
+            <nom>Ramsey</nom>
+            <prenom>Tina</prenom>
+            <numero>6992</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="133">
+        <titre>So add</titre>
+        <auteur>
+            <nom>Herrera</nom>
+            <prenom>Shawn</prenom>
+            <numero>5295</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="134">
+        <titre>Herself police he push likely</titre>
+        <auteur>
+            <nom>Harvey</nom>
+            <prenom>Sherry</prenom>
+            <numero>6374</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="135">
+        <titre>Determine as statement travel few</titre>
+        <auteur>
+            <nom>Ortiz</nom>
+            <prenom>Donald</prenom>
+            <numero>1609</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="136">
+        <titre>You break doctor</titre>
+        <auteur>
+            <nom>Medina</nom>
+            <prenom>Paul</prenom>
+            <numero>7078</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="137">
+        <titre>Industry score choice increase between</titre>
+        <auteur>
+            <nom>Burns</nom>
+            <prenom>Ricky</prenom>
+            <numero>5583</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="138">
+        <titre>Real describe</titre>
+        <auteur>
+            <nom>Wallace</nom>
+            <prenom>Joel</prenom>
+            <numero>6942</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="139">
+        <titre>Wonder happen</titre>
+        <auteur>
+            <nom>Winters</nom>
+            <prenom>Deanna</prenom>
+            <numero>1992</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="140">
+        <titre>Every why we station</titre>
+        <auteur>
+            <nom>Davis</nom>
+            <prenom>Jason</prenom>
+            <numero>1349</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="141">
+        <titre>Skill during</titre>
+        <auteur>
+            <nom>Martinez</nom>
+            <prenom>Anne</prenom>
+            <numero>2124</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="142">
+        <titre>Debate democratic thank forget challenge</titre>
+        <auteur>
+            <nom>Lester</nom>
+            <prenom>Aaron</prenom>
+            <numero>3370</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="143">
+        <titre>Music sometimes body</titre>
+        <auteur>
+            <nom>Delacruz</nom>
+            <prenom>David</prenom>
+            <numero>6869</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="144">
+        <titre>Open administration enter</titre>
+        <auteur>
+            <nom>Martinez</nom>
+            <prenom>Robert</prenom>
+            <numero>2862</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="145">
+        <titre>Live sing</titre>
+        <auteur>
+            <nom>Palmer</nom>
+            <prenom>Daniel</prenom>
+            <numero>9254</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="146">
+        <titre>War analysis situation</titre>
+        <auteur>
+            <nom>Camacho</nom>
+            <prenom>Adrienne</prenom>
+            <numero>8504</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="147">
+        <titre>Article look</titre>
+        <auteur>
+            <nom>Morales</nom>
+            <prenom>Gina</prenom>
+            <numero>9032</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="148">
+        <titre>Available ball part assume</titre>
+        <auteur>
+            <nom>Hill</nom>
+            <prenom>Cynthia</prenom>
+            <numero>9984</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="149">
+        <titre>Herself our far measure</titre>
+        <auteur>
+            <nom>Jordan</nom>
+            <prenom>Laura</prenom>
+            <numero>2874</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="150">
+        <titre>Result Democrat later direction fund</titre>
+        <auteur>
+            <nom>Chavez</nom>
+            <prenom>Robert</prenom>
+            <numero>2557</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="151">
+        <titre>Interview professor hear check</titre>
+        <auteur>
+            <nom>Leblanc</nom>
+            <prenom>Carlos</prenom>
+            <numero>2398</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="152">
+        <titre>It season</titre>
+        <auteur>
+            <nom>Watson</nom>
+            <prenom>David</prenom>
+            <numero>1982</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="153">
+        <titre>What no prove improve them</titre>
+        <auteur>
+            <nom>Pugh</nom>
+            <prenom>Rodney</prenom>
+            <numero>1842</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="154">
+        <titre>Outside goal official</titre>
+        <auteur>
+            <nom>Lewis</nom>
+            <prenom>Diane</prenom>
+            <numero>4674</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="155">
+        <titre>Glass news</titre>
+        <auteur>
+            <nom>Wilson</nom>
+            <prenom>Joshua</prenom>
+            <numero>4705</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="156">
+        <titre>Suddenly window stand party</titre>
+        <auteur>
+            <nom>Day</nom>
+            <prenom>Anthony</prenom>
+            <numero>5381</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="157">
+        <titre>Congress reflect</titre>
+        <auteur>
+            <nom>Parker</nom>
+            <prenom>Matthew</prenom>
+            <numero>1100</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="158">
+        <titre>Thank not husband</titre>
+        <auteur>
+            <nom>Thomas</nom>
+            <prenom>Cynthia</prenom>
+            <numero>1502</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="159">
+        <titre>Second Democrat</titre>
+        <auteur>
+            <nom>Barnes</nom>
+            <prenom>Matthew</prenom>
+            <numero>7062</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="160">
+        <titre>Return since nothing</titre>
+        <auteur>
+            <nom>Miller</nom>
+            <prenom>Brian</prenom>
+            <numero>3579</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="161">
+        <titre>Anyone bank kitchen interest parent</titre>
+        <auteur>
+            <nom>Perry</nom>
+            <prenom>Jason</prenom>
+            <numero>9394</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="162">
+        <titre>Generation book</titre>
+        <auteur>
+            <nom>Gregory</nom>
+            <prenom>Brittany</prenom>
+            <numero>9633</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="163">
+        <titre>Animal house out</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Kevin</prenom>
+            <numero>4460</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="164">
+        <titre>Share face build</titre>
+        <auteur>
+            <nom>Jimenez</nom>
+            <prenom>Ryan</prenom>
+            <numero>3116</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="165">
+        <titre>Mouth discover next property</titre>
+        <auteur>
+            <nom>Gomez</nom>
+            <prenom>Randy</prenom>
+            <numero>1693</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="166">
+        <titre>Affect TV television office</titre>
+        <auteur>
+            <nom>Berry</nom>
+            <prenom>Jenna</prenom>
+            <numero>7843</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="167">
+        <titre>Boy again foot</titre>
+        <auteur>
+            <nom>Solis</nom>
+            <prenom>Christine</prenom>
+            <numero>6928</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="168">
+        <titre>Join black</titre>
+        <auteur>
+            <nom>Graham</nom>
+            <prenom>Richard</prenom>
+            <numero>2288</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="169">
+        <titre>That second develop single</titre>
+        <auteur>
+            <nom>Jones</nom>
+            <prenom>Cynthia</prenom>
+            <numero>9693</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="170">
+        <titre>Create simply go when population</titre>
+        <auteur>
+            <nom>Hernandez</nom>
+            <prenom>Curtis</prenom>
+            <numero>5193</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="171">
+        <titre>Community check service</titre>
+        <auteur>
+            <nom>Jones</nom>
+            <prenom>Stephanie</prenom>
+            <numero>9095</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="172">
+        <titre>Senior service large under</titre>
+        <auteur>
+            <nom>Cunningham</nom>
+            <prenom>Cynthia</prenom>
+            <numero>6295</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="173">
+        <titre>Firm key light place someone</titre>
+        <auteur>
+            <nom>Vargas</nom>
+            <prenom>Michael</prenom>
+            <numero>2215</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="174">
+        <titre>Left also hard</titre>
+        <auteur>
+            <nom>Mitchell</nom>
+            <prenom>Deanna</prenom>
+            <numero>2479</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="175">
+        <titre>Order his oil west school</titre>
+        <auteur>
+            <nom>Williams</nom>
+            <prenom>Regina</prenom>
+            <numero>4084</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="176">
+        <titre>Painting may whatever late</titre>
+        <auteur>
+            <nom>Shepherd</nom>
+            <prenom>Mary</prenom>
+            <numero>2381</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="177">
+        <titre>Position always remain yard</titre>
+        <auteur>
+            <nom>Warren</nom>
+            <prenom>Chelsea</prenom>
+            <numero>6962</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="178">
+        <titre>Truth hold simple quickly</titre>
+        <auteur>
+            <nom>Williams</nom>
+            <prenom>Crystal</prenom>
+            <numero>6482</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="179">
+        <titre>Form newspaper</titre>
+        <auteur>
+            <nom>Hughes</nom>
+            <prenom>Johnathan</prenom>
+            <numero>3463</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="180">
+        <titre>Bank professional true financial</titre>
+        <auteur>
+            <nom>Douglas</nom>
+            <prenom>Eileen</prenom>
+            <numero>3112</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="181">
+        <titre>Remember be next poor foreign</titre>
+        <auteur>
+            <nom>Anderson</nom>
+            <prenom>Jacqueline</prenom>
+            <numero>9624</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="182">
+        <titre>Position interest</titre>
+        <auteur>
+            <nom>Cox</nom>
+            <prenom>Michael</prenom>
+            <numero>3953</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="183">
+        <titre>Game she court</titre>
+        <auteur>
+            <nom>Cooke</nom>
+            <prenom>Eric</prenom>
+            <numero>5846</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="184">
+        <titre>Medical music</titre>
+        <auteur>
+            <nom>Rodgers</nom>
+            <prenom>Alisha</prenom>
+            <numero>6517</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="185">
+        <titre>Capital heavy class story side</titre>
+        <auteur>
+            <nom>Lamb</nom>
+            <prenom>Gabriel</prenom>
+            <numero>8170</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="186">
+        <titre>Improve put</titre>
+        <auteur>
+            <nom>Young</nom>
+            <prenom>Sean</prenom>
+            <numero>5668</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="187">
+        <titre>Doctor dream whole six</titre>
+        <auteur>
+            <nom>Mckee</nom>
+            <prenom>James</prenom>
+            <numero>8218</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="188">
+        <titre>Show sing me industry</titre>
+        <auteur>
+            <nom>Martin</nom>
+            <prenom>James</prenom>
+            <numero>3267</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="189">
+        <titre>Appear lose he</titre>
+        <auteur>
+            <nom>Villa</nom>
+            <prenom>Jennifer</prenom>
+            <numero>9452</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="190">
+        <titre>Expect several evening</titre>
+        <auteur>
+            <nom>Whitehead</nom>
+            <prenom>Dylan</prenom>
+            <numero>8167</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="191">
+        <titre>Watch develop</titre>
+        <auteur>
+            <nom>Hayes</nom>
+            <prenom>Michael</prenom>
+            <numero>1436</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="192">
+        <titre>Apply maybe dog yes</titre>
+        <auteur>
+            <nom>Brooks</nom>
+            <prenom>Anthony</prenom>
+            <numero>2623</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="193">
+        <titre>Social case expert stop</titre>
+        <auteur>
+            <nom>Horton</nom>
+            <prenom>Dominic</prenom>
+            <numero>8685</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="194">
+        <titre>Past town affect democratic</titre>
+        <auteur>
+            <nom>Hernandez</nom>
+            <prenom>Shelby</prenom>
+            <numero>9647</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="195">
+        <titre>Book explain feeling answer</titre>
+        <auteur>
+            <nom>Barnes</nom>
+            <prenom>Laura</prenom>
+            <numero>8489</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="196">
+        <titre>Book toward</titre>
+        <auteur>
+            <nom>Carlson</nom>
+            <prenom>Allen</prenom>
+            <numero>9443</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="197">
+        <titre>Drop century investment pass drive</titre>
+        <auteur>
+            <nom>Butler</nom>
+            <prenom>Elizabeth</prenom>
+            <numero>2402</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="198">
+        <titre>Window attack moment medical write</titre>
+        <auteur>
+            <nom>Spencer</nom>
+            <prenom>Peter</prenom>
+            <numero>8702</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="199">
+        <titre>Player wonder</titre>
+        <auteur>
+            <nom>King</nom>
+            <prenom>Allen</prenom>
+            <numero>2106</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="200">
+        <titre>Drop price billion old</titre>
+        <auteur>
+            <nom>Sherman</nom>
+            <prenom>Dennis</prenom>
+            <numero>6772</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="201">
+        <titre>Full poor store range wonder</titre>
+        <auteur>
+            <nom>Mendoza</nom>
+            <prenom>Ian</prenom>
+            <numero>3209</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="202">
+        <titre>Respond want</titre>
+        <auteur>
+            <nom>Johnson</nom>
+            <prenom>James</prenom>
+            <numero>4268</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="203">
+        <titre>Firm financial</titre>
+        <auteur>
+            <nom>Sanders</nom>
+            <prenom>Lisa</prenom>
+            <numero>8756</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="204">
+        <titre>Already positive experience</titre>
+        <auteur>
+            <nom>Atkins</nom>
+            <prenom>Brandon</prenom>
+            <numero>6438</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="205">
+        <titre>Buy happy threat</titre>
+        <auteur>
+            <nom>Paul</nom>
+            <prenom>Patricia</prenom>
+            <numero>7334</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="206">
+        <titre>Wind many marriage under</titre>
+        <auteur>
+            <nom>Stone</nom>
+            <prenom>Laurie</prenom>
+            <numero>7955</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="207">
+        <titre>Issue yet</titre>
+        <auteur>
+            <nom>White</nom>
+            <prenom>Kelly</prenom>
+            <numero>2680</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="208">
+        <titre>Foreign fast</titre>
+        <auteur>
+            <nom>Griffin</nom>
+            <prenom>Jennifer</prenom>
+            <numero>3730</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="209">
+        <titre>Goal amount thank good</titre>
+        <auteur>
+            <nom>Bolton</nom>
+            <prenom>Joshua</prenom>
+            <numero>1939</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="210">
+        <titre>Provide image</titre>
+        <auteur>
+            <nom>Palmer</nom>
+            <prenom>Kara</prenom>
+            <numero>3621</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="211">
+        <titre>Central parent</titre>
+        <auteur>
+            <nom>Harrington</nom>
+            <prenom>Austin</prenom>
+            <numero>2101</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="212">
+        <titre>Sing hand him</titre>
+        <auteur>
+            <nom>Bradley</nom>
+            <prenom>Cassie</prenom>
+            <numero>8371</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="213">
+        <titre>Head several off morning</titre>
+        <auteur>
+            <nom>Sanders</nom>
+            <prenom>Debra</prenom>
+            <numero>5089</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="214">
+        <titre>Ago control</titre>
+        <auteur>
+            <nom>Holmes</nom>
+            <prenom>Robin</prenom>
+            <numero>2929</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="215">
+        <titre>Simple region Democrat</titre>
+        <auteur>
+            <nom>Carr</nom>
+            <prenom>Heather</prenom>
+            <numero>9047</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="216">
+        <titre>But table later</titre>
+        <auteur>
+            <nom>Roach</nom>
+            <prenom>Sean</prenom>
+            <numero>2438</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="217">
+        <titre>Property remember nearly face</titre>
+        <auteur>
+            <nom>Evans</nom>
+            <prenom>Eric</prenom>
+            <numero>3852</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="218">
+        <titre>Meeting building cut catch</titre>
+        <auteur>
+            <nom>Tyler</nom>
+            <prenom>Anthony</prenom>
+            <numero>7044</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="219">
+        <titre>Sound necessary partner beat</titre>
+        <auteur>
+            <nom>Parker</nom>
+            <prenom>Yvonne</prenom>
+            <numero>8842</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="220">
+        <titre>Improve important offer by first</titre>
+        <auteur>
+            <nom>Jones</nom>
+            <prenom>Steven</prenom>
+            <numero>9476</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="221">
+        <titre>Campaign stop necessary onto</titre>
+        <auteur>
+            <nom>Saunders</nom>
+            <prenom>David</prenom>
+            <numero>9238</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="222">
+        <titre>Story million</titre>
+        <auteur>
+            <nom>Torres</nom>
+            <prenom>Fernando</prenom>
+            <numero>4694</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="223">
+        <titre>Way million exist bad</titre>
+        <auteur>
+            <nom>Gonzalez</nom>
+            <prenom>Stephanie</prenom>
+            <numero>5496</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="224">
+        <titre>Person pass behavior</titre>
+        <auteur>
+            <nom>Davidson</nom>
+            <prenom>Brittany</prenom>
+            <numero>3526</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="225">
+        <titre>Probably result painting</titre>
+        <auteur>
+            <nom>Kirby</nom>
+            <prenom>Anne</prenom>
+            <numero>1464</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="226">
+        <titre>Animal political</titre>
+        <auteur>
+            <nom>Ray</nom>
+            <prenom>Debra</prenom>
+            <numero>7825</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="227">
+        <titre>Police marriage phone face what</titre>
+        <auteur>
+            <nom>Webb</nom>
+            <prenom>Linda</prenom>
+            <numero>7653</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="228">
+        <titre>Law read citizen</titre>
+        <auteur>
+            <nom>Perry</nom>
+            <prenom>Steven</prenom>
+            <numero>6573</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="229">
+        <titre>Century technology floor write generation</titre>
+        <auteur>
+            <nom>Ross</nom>
+            <prenom>Kathleen</prenom>
+            <numero>9437</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="230">
+        <titre>Blood drop business last cell</titre>
+        <auteur>
+            <nom>Williams</nom>
+            <prenom>Sonia</prenom>
+            <numero>7850</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="231">
+        <titre>While total spend</titre>
+        <auteur>
+            <nom>Peck</nom>
+            <prenom>Jennifer</prenom>
+            <numero>4110</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="232">
+        <titre>Marriage method material</titre>
+        <auteur>
+            <nom>Parker</nom>
+            <prenom>Andrew</prenom>
+            <numero>7442</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="233">
+        <titre>Lead drive on any</titre>
+        <auteur>
+            <nom>Campbell</nom>
+            <prenom>Carla</prenom>
+            <numero>8710</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="234">
+        <titre>Mr suggest issue</titre>
+        <auteur>
+            <nom>Khan</nom>
+            <prenom>Jessica</prenom>
+            <numero>7606</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="235">
+        <titre>And anything no guy</titre>
+        <auteur>
+            <nom>Roberts</nom>
+            <prenom>Paul</prenom>
+            <numero>8378</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="236">
+        <titre>Evidence writer quite budget window</titre>
+        <auteur>
+            <nom>Long</nom>
+            <prenom>Laura</prenom>
+            <numero>6555</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="237">
+        <titre>Voice sense current meeting matter</titre>
+        <auteur>
+            <nom>Williams</nom>
+            <prenom>Derrick</prenom>
+            <numero>6456</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="238">
+        <titre>Mind chance throw cause</titre>
+        <auteur>
+            <nom>Velazquez</nom>
+            <prenom>Lucas</prenom>
+            <numero>7438</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="239">
+        <titre>School federal from stock mother</titre>
+        <auteur>
+            <nom>Erickson</nom>
+            <prenom>Kevin</prenom>
+            <numero>1272</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="240">
+        <titre>Former body indicate film</titre>
+        <auteur>
+            <nom>Roach</nom>
+            <prenom>Monica</prenom>
+            <numero>1436</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="241">
+        <titre>Listen whose situation simply officer</titre>
+        <auteur>
+            <nom>Griffith</nom>
+            <prenom>Brandy</prenom>
+            <numero>3793</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="242">
+        <titre>Pick people subject challenge quite</titre>
+        <auteur>
+            <nom>Johnson</nom>
+            <prenom>Stacy</prenom>
+            <numero>2800</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="243">
+        <titre>Affect finish charge</titre>
+        <auteur>
+            <nom>Vaughn</nom>
+            <prenom>Robert</prenom>
+            <numero>8726</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="244">
+        <titre>Relationship million</titre>
+        <auteur>
+            <nom>Hoffman</nom>
+            <prenom>Whitney</prenom>
+            <numero>8837</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="245">
+        <titre>Heavy what least mouth national</titre>
+        <auteur>
+            <nom>Lowe</nom>
+            <prenom>Mikayla</prenom>
+            <numero>5331</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="246">
+        <titre>Machine whatever everything fear walk</titre>
+        <auteur>
+            <nom>Hendrix</nom>
+            <prenom>Kellie</prenom>
+            <numero>4396</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="247">
+        <titre>First give value somebody</titre>
+        <auteur>
+            <nom>Hill</nom>
+            <prenom>David</prenom>
+            <numero>9899</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="248">
+        <titre>Time house generation significant</titre>
+        <auteur>
+            <nom>Thomas</nom>
+            <prenom>Bobby</prenom>
+            <numero>2294</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="249">
+        <titre>Under pretty section degree</titre>
+        <auteur>
+            <nom>Clayton</nom>
+            <prenom>Joseph</prenom>
+            <numero>5450</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="250">
+        <titre>Body scientist dream</titre>
+        <auteur>
+            <nom>Williams</nom>
+            <prenom>Rebecca</prenom>
+            <numero>4697</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="251">
+        <titre>Appear including response</titre>
+        <auteur>
+            <nom>Garcia</nom>
+            <prenom>Kelli</prenom>
+            <numero>1084</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="252">
+        <titre>Within citizen present thing little</titre>
+        <auteur>
+            <nom>Santos</nom>
+            <prenom>Katelyn</prenom>
+            <numero>5706</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="253">
+        <titre>Experience arrive shoulder present</titre>
+        <auteur>
+            <nom>Hall</nom>
+            <prenom>Joanne</prenom>
+            <numero>1611</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="254">
+        <titre>Individual study value</titre>
+        <auteur>
+            <nom>Johnson</nom>
+            <prenom>Mary</prenom>
+            <numero>9116</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="255">
+        <titre>View while unit</titre>
+        <auteur>
+            <nom>Mcdowell</nom>
+            <prenom>Albert</prenom>
+            <numero>2758</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="256">
+        <titre>Expect writer myself management</titre>
+        <auteur>
+            <nom>Mays</nom>
+            <prenom>Melissa</prenom>
+            <numero>8668</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="257">
+        <titre>Cover both class</titre>
+        <auteur>
+            <nom>Stevens</nom>
+            <prenom>Jonathan</prenom>
+            <numero>4050</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="258">
+        <titre>Say so</titre>
+        <auteur>
+            <nom>Bradley</nom>
+            <prenom>Katherine</prenom>
+            <numero>3875</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="259">
+        <titre>Task today still middle beautiful</titre>
+        <auteur>
+            <nom>Caldwell</nom>
+            <prenom>Jack</prenom>
+            <numero>3303</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="260">
+        <titre>Food easy end dog</titre>
+        <auteur>
+            <nom>Molina</nom>
+            <prenom>Stephanie</prenom>
+            <numero>5947</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="261">
+        <titre>Reveal activity president realize artist</titre>
+        <auteur>
+            <nom>Wilson</nom>
+            <prenom>Kurt</prenom>
+            <numero>7642</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="262">
+        <titre>Type thousand show real</titre>
+        <auteur>
+            <nom>Fowler</nom>
+            <prenom>Shelia</prenom>
+            <numero>7021</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="263">
+        <titre>Determine whatever long lawyer writer</titre>
+        <auteur>
+            <nom>Brooks</nom>
+            <prenom>Jacqueline</prenom>
+            <numero>8714</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="264">
+        <titre>Soon stay seven quite other</titre>
+        <auteur>
+            <nom>Cobb</nom>
+            <prenom>Alicia</prenom>
+            <numero>9653</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="265">
+        <titre>Back nor article natural</titre>
+        <auteur>
+            <nom>Wagner</nom>
+            <prenom>Ashley</prenom>
+            <numero>3455</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="266">
+        <titre>Foreign minute break</titre>
+        <auteur>
+            <nom>Harris</nom>
+            <prenom>Brandy</prenom>
+            <numero>2489</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="267">
+        <titre>Knowledge argue car indeed nor</titre>
+        <auteur>
+            <nom>Hansen</nom>
+            <prenom>Emily</prenom>
+            <numero>6049</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="268">
+        <titre>How staff</titre>
+        <auteur>
+            <nom>Reese</nom>
+            <prenom>Beth</prenom>
+            <numero>1742</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="269">
+        <titre>General as yes various</titre>
+        <auteur>
+            <nom>Jones</nom>
+            <prenom>Sarah</prenom>
+            <numero>1519</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="270">
+        <titre>Important shoulder she</titre>
+        <auteur>
+            <nom>Good</nom>
+            <prenom>Debbie</prenom>
+            <numero>7887</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="271">
+        <titre>Year him thank trade</titre>
+        <auteur>
+            <nom>Bennett</nom>
+            <prenom>Felicia</prenom>
+            <numero>9835</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="272">
+        <titre>President girl condition</titre>
+        <auteur>
+            <nom>Medina</nom>
+            <prenom>Allison</prenom>
+            <numero>4648</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="273">
+        <titre>Series without</titre>
+        <auteur>
+            <nom>Ford</nom>
+            <prenom>Jennifer</prenom>
+            <numero>7948</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="274">
+        <titre>Here discover leave choice country</titre>
+        <auteur>
+            <nom>Golden</nom>
+            <prenom>Kathy</prenom>
+            <numero>1527</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="275">
+        <titre>Past view threat drive</titre>
+        <auteur>
+            <nom>Jones</nom>
+            <prenom>Brittney</prenom>
+            <numero>8314</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="276">
+        <titre>Public the each analysis keep</titre>
+        <auteur>
+            <nom>Fernandez</nom>
+            <prenom>Karen</prenom>
+            <numero>1924</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="277">
+        <titre>Mean eye staff</titre>
+        <auteur>
+            <nom>Dennis</nom>
+            <prenom>Luis</prenom>
+            <numero>6253</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="278">
+        <titre>Few century produce</titre>
+        <auteur>
+            <nom>Walker</nom>
+            <prenom>Kevin</prenom>
+            <numero>1998</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="279">
+        <titre>We they treatment personal interview</titre>
+        <auteur>
+            <nom>Simpson</nom>
+            <prenom>Teresa</prenom>
+            <numero>7244</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="280">
+        <titre>Five indicate chance heavy senior</titre>
+        <auteur>
+            <nom>Wells</nom>
+            <prenom>Melissa</prenom>
+            <numero>5927</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="281">
+        <titre>South trip none</titre>
+        <auteur>
+            <nom>Faulkner</nom>
+            <prenom>Angela</prenom>
+            <numero>3196</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="282">
+        <titre>Drug data position two</titre>
+        <auteur>
+            <nom>Boone</nom>
+            <prenom>Christopher</prenom>
+            <numero>4120</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="283">
+        <titre>Environmental purpose</titre>
+        <auteur>
+            <nom>Morrison</nom>
+            <prenom>Morgan</prenom>
+            <numero>4082</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="284">
+        <titre>Right next look thank four</titre>
+        <auteur>
+            <nom>Krueger</nom>
+            <prenom>Alexis</prenom>
+            <numero>4113</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="285">
+        <titre>Section senior trial</titre>
+        <auteur>
+            <nom>Dominguez</nom>
+            <prenom>Jane</prenom>
+            <numero>7498</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="286">
+        <titre>Need simply herself</titre>
+        <auteur>
+            <nom>Ferguson</nom>
+            <prenom>Michael</prenom>
+            <numero>5285</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="287">
+        <titre>Mention market better wonder</titre>
+        <auteur>
+            <nom>Harrison</nom>
+            <prenom>Mary</prenom>
+            <numero>4328</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="288">
+        <titre>Fine animal ten scientist</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Angela</prenom>
+            <numero>7841</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="289">
+        <titre>Charge form here</titre>
+        <auteur>
+            <nom>Whitaker</nom>
+            <prenom>Victor</prenom>
+            <numero>6530</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="290">
+        <titre>Shake major rich</titre>
+        <auteur>
+            <nom>Singh</nom>
+            <prenom>Steven</prenom>
+            <numero>6770</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="291">
+        <titre>Cause national contain</titre>
+        <auteur>
+            <nom>Preston</nom>
+            <prenom>Veronica</prenom>
+            <numero>1962</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="292">
+        <titre>Almost suggest war property share</titre>
+        <auteur>
+            <nom>Gutierrez</nom>
+            <prenom>Megan</prenom>
+            <numero>4791</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="293">
+        <titre>Religious across</titre>
+        <auteur>
+            <nom>Wagner</nom>
+            <prenom>Nathaniel</prenom>
+            <numero>8916</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="294">
+        <titre>Administration mother in admit</titre>
+        <auteur>
+            <nom>Bowen</nom>
+            <prenom>Amanda</prenom>
+            <numero>5697</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="295">
+        <titre>Maybe recently</titre>
+        <auteur>
+            <nom>Jordan</nom>
+            <prenom>Sheila</prenom>
+            <numero>3937</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="296">
+        <titre>Truth modern</titre>
+        <auteur>
+            <nom>Allen</nom>
+            <prenom>Christine</prenom>
+            <numero>5135</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="297">
+        <titre>Environment however health image</titre>
+        <auteur>
+            <nom>Cunningham</nom>
+            <prenom>Veronica</prenom>
+            <numero>4700</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="298">
+        <titre>Range summer president</titre>
+        <auteur>
+            <nom>Garrison</nom>
+            <prenom>Katherine</prenom>
+            <numero>2531</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="299">
+        <titre>Here need argue act</titre>
+        <auteur>
+            <nom>Jackson</nom>
+            <prenom>Vincent</prenom>
+            <numero>8109</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="300">
+        <titre>Not teach believe month</titre>
+        <auteur>
+            <nom>Williams</nom>
+            <prenom>Jason</prenom>
+            <numero>8790</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="301">
+        <titre>Another avoid understand</titre>
+        <auteur>
+            <nom>Lam</nom>
+            <prenom>Anna</prenom>
+            <numero>1539</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="302">
+        <titre>Up fire which</titre>
+        <auteur>
+            <nom>Matthews</nom>
+            <prenom>Karen</prenom>
+            <numero>7525</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="303">
+        <titre>Federal nor</titre>
+        <auteur>
+            <nom>Knight</nom>
+            <prenom>Melissa</prenom>
+            <numero>9856</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="304">
+        <titre>Himself science so ready</titre>
+        <auteur>
+            <nom>Miller</nom>
+            <prenom>Julie</prenom>
+            <numero>6666</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="305">
+        <titre>Best discussion</titre>
+        <auteur>
+            <nom>Jones</nom>
+            <prenom>Cassie</prenom>
+            <numero>7499</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="306">
+        <titre>Ahead event yeah make</titre>
+        <auteur>
+            <nom>Kelly</nom>
+            <prenom>Shelley</prenom>
+            <numero>8075</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="307">
+        <titre>Quickly produce beat</titre>
+        <auteur>
+            <nom>Montgomery</nom>
+            <prenom>Lauren</prenom>
+            <numero>2204</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="308">
+        <titre>Environmental here</titre>
+        <auteur>
+            <nom>Bowers</nom>
+            <prenom>Eric</prenom>
+            <numero>7383</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="309">
+        <titre>Guess before wall know</titre>
+        <auteur>
+            <nom>Juarez</nom>
+            <prenom>Curtis</prenom>
+            <numero>2430</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="310">
+        <titre>Issue news mention</titre>
+        <auteur>
+            <nom>Garcia</nom>
+            <prenom>Christopher</prenom>
+            <numero>2524</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="311">
+        <titre>Our foot history factor hold</titre>
+        <auteur>
+            <nom>Miller</nom>
+            <prenom>Rachel</prenom>
+            <numero>4977</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="312">
+        <titre>Minute rate college especially environmental</titre>
+        <auteur>
+            <nom>Thomas</nom>
+            <prenom>Gary</prenom>
+            <numero>5521</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="313">
+        <titre>Feel site guess want</titre>
+        <auteur>
+            <nom>Le</nom>
+            <prenom>Tyler</prenom>
+            <numero>4203</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="314">
+        <titre>Blood fight we forward</titre>
+        <auteur>
+            <nom>Oliver</nom>
+            <prenom>Linda</prenom>
+            <numero>6399</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="315">
+        <titre>Friend spring teacher wind</titre>
+        <auteur>
+            <nom>Taylor</nom>
+            <prenom>Malik</prenom>
+            <numero>4290</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="316">
+        <titre>Fire who why fact</titre>
+        <auteur>
+            <nom>Neal</nom>
+            <prenom>Travis</prenom>
+            <numero>4971</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="317">
+        <titre>Heavy staff hotel box</titre>
+        <auteur>
+            <nom>Elliott</nom>
+            <prenom>Brittany</prenom>
+            <numero>9939</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="318">
+        <titre>Race nearly well</titre>
+        <auteur>
+            <nom>Murray</nom>
+            <prenom>Jeanette</prenom>
+            <numero>8183</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="319">
+        <titre>Story attorney summer</titre>
+        <auteur>
+            <nom>Pope</nom>
+            <prenom>Emily</prenom>
+            <numero>3280</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="320">
+        <titre>Drug probably resource</titre>
+        <auteur>
+            <nom>Mccormick</nom>
+            <prenom>Charles</prenom>
+            <numero>8851</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="321">
+        <titre>Husband media turn reality myself</titre>
+        <auteur>
+            <nom>Gibbs</nom>
+            <prenom>Michael</prenom>
+            <numero>9796</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="322">
+        <titre>Point be shoulder price great</titre>
+        <auteur>
+            <nom>Holland</nom>
+            <prenom>Bradley</prenom>
+            <numero>7547</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="323">
+        <titre>Whole involve action else</titre>
+        <auteur>
+            <nom>Dixon</nom>
+            <prenom>April</prenom>
+            <numero>4621</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="324">
+        <titre>Hear leg quickly real</titre>
+        <auteur>
+            <nom>Hernandez</nom>
+            <prenom>Whitney</prenom>
+            <numero>8909</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="325">
+        <titre>Far turn</titre>
+        <auteur>
+            <nom>Miller</nom>
+            <prenom>Marie</prenom>
+            <numero>3321</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="326">
+        <titre>Find lay deal lot</titre>
+        <auteur>
+            <nom>Alvarez</nom>
+            <prenom>Samuel</prenom>
+            <numero>8412</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="327">
+        <titre>Attack and represent against</titre>
+        <auteur>
+            <nom>Cooper</nom>
+            <prenom>Daniel</prenom>
+            <numero>3692</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="328">
+        <titre>Might necessary former</titre>
+        <auteur>
+            <nom>Simmons</nom>
+            <prenom>Steven</prenom>
+            <numero>7636</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="329">
+        <titre>Continue policy it ahead pass</titre>
+        <auteur>
+            <nom>Gonzalez</nom>
+            <prenom>Brittany</prenom>
+            <numero>7370</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="330">
+        <titre>Relate day</titre>
+        <auteur>
+            <nom>Goodwin</nom>
+            <prenom>Lindsey</prenom>
+            <numero>2025</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="331">
+        <titre>Big the cost for leader</titre>
+        <auteur>
+            <nom>Baker</nom>
+            <prenom>Michelle</prenom>
+            <numero>9646</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="332">
+        <titre>Others particularly only girl</titre>
+        <auteur>
+            <nom>Bruce</nom>
+            <prenom>Christina</prenom>
+            <numero>5873</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="333">
+        <titre>Opportunity public finish draw bring</titre>
+        <auteur>
+            <nom>Brooks</nom>
+            <prenom>Donald</prenom>
+            <numero>7364</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="334">
+        <titre>Others offer institution main</titre>
+        <auteur>
+            <nom>Medina</nom>
+            <prenom>Samantha</prenom>
+            <numero>3838</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="335">
+        <titre>Cold eye cost success people</titre>
+        <auteur>
+            <nom>Glenn</nom>
+            <prenom>Stephanie</prenom>
+            <numero>8939</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="336">
+        <titre>Crime himself no</titre>
+        <auteur>
+            <nom>Delgado</nom>
+            <prenom>Robert</prenom>
+            <numero>9056</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="337">
+        <titre>Report kitchen cold not</titre>
+        <auteur>
+            <nom>Flynn</nom>
+            <prenom>Jeffrey</prenom>
+            <numero>1535</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="338">
+        <titre>Different eye sit</titre>
+        <auteur>
+            <nom>Cunningham</nom>
+            <prenom>Kendra</prenom>
+            <numero>9115</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="339">
+        <titre>Member of environmental myself yard</titre>
+        <auteur>
+            <nom>Weaver</nom>
+            <prenom>Katherine</prenom>
+            <numero>8231</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="340">
+        <titre>Despite interesting save president easy</titre>
+        <auteur>
+            <nom>Golden</nom>
+            <prenom>Antonio</prenom>
+            <numero>5305</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="341">
+        <titre>Television beautiful tend bring</titre>
+        <auteur>
+            <nom>Cain</nom>
+            <prenom>Jason</prenom>
+            <numero>6744</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="342">
+        <titre>Plan coach cause deal deal</titre>
+        <auteur>
+            <nom>Brown</nom>
+            <prenom>Michael</prenom>
+            <numero>5605</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="343">
+        <titre>Much food region eye environment</titre>
+        <auteur>
+            <nom>Hodge</nom>
+            <prenom>Tricia</prenom>
+            <numero>2560</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="344">
+        <titre>While size try</titre>
+        <auteur>
+            <nom>Riddle</nom>
+            <prenom>Michelle</prenom>
+            <numero>3078</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="345">
+        <titre>Economic represent stock</titre>
+        <auteur>
+            <nom>Juarez</nom>
+            <prenom>Erica</prenom>
+            <numero>9019</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="346">
+        <titre>Officer environmental increase</titre>
+        <auteur>
+            <nom>Hayes</nom>
+            <prenom>Cynthia</prenom>
+            <numero>2525</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="347">
+        <titre>Middle everything view hard</titre>
+        <auteur>
+            <nom>Clements</nom>
+            <prenom>Mark</prenom>
+            <numero>1040</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="348">
+        <titre>Room learn</titre>
+        <auteur>
+            <nom>Beck</nom>
+            <prenom>Michael</prenom>
+            <numero>2037</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="349">
+        <titre>Huge why station manager follow</titre>
+        <auteur>
+            <nom>Campbell</nom>
+            <prenom>Amy</prenom>
+            <numero>3139</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="350">
+        <titre>System small thus several animal</titre>
+        <auteur>
+            <nom>Sims</nom>
+            <prenom>Mary</prenom>
+            <numero>1266</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="351">
+        <titre>Upon citizen lead</titre>
+        <auteur>
+            <nom>Braun</nom>
+            <prenom>Ronald</prenom>
+            <numero>3161</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="352">
+        <titre>City usually ever</titre>
+        <auteur>
+            <nom>Pena</nom>
+            <prenom>John</prenom>
+            <numero>7092</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="353">
+        <titre>Appear personal rise</titre>
+        <auteur>
+            <nom>Fischer</nom>
+            <prenom>Ruben</prenom>
+            <numero>2494</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="354">
+        <titre>Ability live</titre>
+        <auteur>
+            <nom>Anderson</nom>
+            <prenom>Jeremy</prenom>
+            <numero>8291</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="355">
+        <titre>Account gas</titre>
+        <auteur>
+            <nom>Martinez</nom>
+            <prenom>Michelle</prenom>
+            <numero>3165</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="356">
+        <titre>Audience him room bill</titre>
+        <auteur>
+            <nom>Edwards</nom>
+            <prenom>Nicole</prenom>
+            <numero>3246</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="357">
+        <titre>Similar send card year</titre>
+        <auteur>
+            <nom>Thomas</nom>
+            <prenom>Alyssa</prenom>
+            <numero>1138</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="358">
+        <titre>Practice key reveal physical character</titre>
+        <auteur>
+            <nom>Jenkins</nom>
+            <prenom>Glenda</prenom>
+            <numero>4559</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="359">
+        <titre>To cause</titre>
+        <auteur>
+            <nom>Martinez</nom>
+            <prenom>Jessica</prenom>
+            <numero>6759</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="360">
+        <titre>Fire cause everybody base</titre>
+        <auteur>
+            <nom>Tran</nom>
+            <prenom>Carol</prenom>
+            <numero>5668</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="361">
+        <titre>Summer probably</titre>
+        <auteur>
+            <nom>Turner</nom>
+            <prenom>April</prenom>
+            <numero>9348</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="362">
+        <titre>Security far approach</titre>
+        <auteur>
+            <nom>Hurst</nom>
+            <prenom>Stephanie</prenom>
+            <numero>9108</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="363">
+        <titre>Both matter order month</titre>
+        <auteur>
+            <nom>Levine</nom>
+            <prenom>Valerie</prenom>
+            <numero>6185</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="364">
+        <titre>Hit stuff inside</titre>
+        <auteur>
+            <nom>Payne</nom>
+            <prenom>Gerald</prenom>
+            <numero>8717</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="365">
+        <titre>Admit attack</titre>
+        <auteur>
+            <nom>Baker</nom>
+            <prenom>Bill</prenom>
+            <numero>1990</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="366">
+        <titre>Media pick may indeed</titre>
+        <auteur>
+            <nom>Miles</nom>
+            <prenom>Christopher</prenom>
+            <numero>9791</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="367">
+        <titre>Pattern everyone finally memory data</titre>
+        <auteur>
+            <nom>Morton</nom>
+            <prenom>Amanda</prenom>
+            <numero>7401</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="368">
+        <titre>Plant strong race at recognize</titre>
+        <auteur>
+            <nom>Blair</nom>
+            <prenom>Meghan</prenom>
+            <numero>1948</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="369">
+        <titre>Beat its law</titre>
+        <auteur>
+            <nom>Lynch</nom>
+            <prenom>Kyle</prenom>
+            <numero>3877</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="370">
+        <titre>Actually case activity</titre>
+        <auteur>
+            <nom>Crawford</nom>
+            <prenom>Michael</prenom>
+            <numero>9474</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="371">
+        <titre>Cold camera sit</titre>
+        <auteur>
+            <nom>Adams</nom>
+            <prenom>Olivia</prenom>
+            <numero>1480</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="372">
+        <titre>Southern evening ask Republican</titre>
+        <auteur>
+            <nom>Ray</nom>
+            <prenom>Chris</prenom>
+            <numero>8457</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="373">
+        <titre>Growth matter note happy effort</titre>
+        <auteur>
+            <nom>Garcia</nom>
+            <prenom>Audrey</prenom>
+            <numero>2889</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="374">
+        <titre>Scientist able teach</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Brandon</prenom>
+            <numero>6963</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="375">
+        <titre>Turn condition whether along</titre>
+        <auteur>
+            <nom>Pratt</nom>
+            <prenom>Jennifer</prenom>
+            <numero>7870</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="376">
+        <titre>Focus indicate result</titre>
+        <auteur>
+            <nom>Nelson</nom>
+            <prenom>Christian</prenom>
+            <numero>7108</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="377">
+        <titre>Maybe top conference</titre>
+        <auteur>
+            <nom>Brock</nom>
+            <prenom>Tina</prenom>
+            <numero>7568</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="378">
+        <titre>Theory tend</titre>
+        <auteur>
+            <nom>Ayala</nom>
+            <prenom>Lance</prenom>
+            <numero>2415</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="379">
+        <titre>Lead hard factor six science</titre>
+        <auteur>
+            <nom>Sanchez</nom>
+            <prenom>Micheal</prenom>
+            <numero>9083</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="380">
+        <titre>Run national somebody</titre>
+        <auteur>
+            <nom>Hernandez</nom>
+            <prenom>Sarah</prenom>
+            <numero>1391</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="381">
+        <titre>Must player really</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Matthew</prenom>
+            <numero>7164</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="382">
+        <titre>Billion morning draw</titre>
+        <auteur>
+            <nom>Vasquez</nom>
+            <prenom>Brian</prenom>
+            <numero>3332</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="383">
+        <titre>Behavior TV today</titre>
+        <auteur>
+            <nom>Meyer</nom>
+            <prenom>Jaclyn</prenom>
+            <numero>7102</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="384">
+        <titre>Window be believe card</titre>
+        <auteur>
+            <nom>Wilkins</nom>
+            <prenom>Charles</prenom>
+            <numero>2020</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="385">
+        <titre>Production candidate factor surface</titre>
+        <auteur>
+            <nom>Howe</nom>
+            <prenom>Phillip</prenom>
+            <numero>6345</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="386">
+        <titre>Laugh do want carry</titre>
+        <auteur>
+            <nom>Carrillo</nom>
+            <prenom>Daniel</prenom>
+            <numero>2731</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="387">
+        <titre>Last finish building</titre>
+        <auteur>
+            <nom>Howard</nom>
+            <prenom>Kaylee</prenom>
+            <numero>8404</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="388">
+        <titre>Leg system bed</titre>
+        <auteur>
+            <nom>Aguirre</nom>
+            <prenom>Kevin</prenom>
+            <numero>1660</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="389">
+        <titre>Structure foreign before</titre>
+        <auteur>
+            <nom>Wright</nom>
+            <prenom>Michael</prenom>
+            <numero>9412</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="390">
+        <titre>Quality employee</titre>
+        <auteur>
+            <nom>Ewing</nom>
+            <prenom>Anthony</prenom>
+            <numero>7625</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="391">
+        <titre>New nearly behind big</titre>
+        <auteur>
+            <nom>Leon</nom>
+            <prenom>David</prenom>
+            <numero>2010</numero>
+        </auteur>
+        <année>2003</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="392">
+        <titre>Candidate statement head</titre>
+        <auteur>
+            <nom>Mccoy</nom>
+            <prenom>Deanna</prenom>
+            <numero>5240</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="393">
+        <titre>Against ask</titre>
+        <auteur>
+            <nom>Orr</nom>
+            <prenom>Scott</prenom>
+            <numero>3110</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="394">
+        <titre>Toward stop</titre>
+        <auteur>
+            <nom>Rivera</nom>
+            <prenom>Brad</prenom>
+            <numero>8552</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="395">
+        <titre>Collection off</titre>
+        <auteur>
+            <nom>Underwood</nom>
+            <prenom>Randall</prenom>
+            <numero>1483</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="396">
+        <titre>Raise common Democrat cost</titre>
+        <auteur>
+            <nom>Ramirez</nom>
+            <prenom>Nicole</prenom>
+            <numero>1567</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="397">
+        <titre>People early far include nearly</titre>
+        <auteur>
+            <nom>Brown</nom>
+            <prenom>Joshua</prenom>
+            <numero>3248</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="398">
+        <titre>Current this moment piece</titre>
+        <auteur>
+            <nom>Pham</nom>
+            <prenom>Laura</prenom>
+            <numero>7266</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="399">
+        <titre>Look sit general not</titre>
+        <auteur>
+            <nom>Morris</nom>
+            <prenom>Joseph</prenom>
+            <numero>1427</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="400">
+        <titre>Others ahead specific exactly</titre>
+        <auteur>
+            <nom>Stokes</nom>
+            <prenom>Thomas</prenom>
+            <numero>6856</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="401">
+        <titre>Yourself wind beyond prevent entire</titre>
+        <auteur>
+            <nom>Velasquez</nom>
+            <prenom>Samantha</prenom>
+            <numero>1916</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="402">
+        <titre>Offer work home</titre>
+        <auteur>
+            <nom>Mcconnell</nom>
+            <prenom>Victoria</prenom>
+            <numero>3846</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="403">
+        <titre>Door fish scene</titre>
+        <auteur>
+            <nom>Howard</nom>
+            <prenom>Brittany</prenom>
+            <numero>6761</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="404">
+        <titre>Nor none could write think</titre>
+        <auteur>
+            <nom>Vasquez</nom>
+            <prenom>Kyle</prenom>
+            <numero>9035</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="405">
+        <titre>Bed discussion</titre>
+        <auteur>
+            <nom>Robinson</nom>
+            <prenom>Alisha</prenom>
+            <numero>1011</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="406">
+        <titre>Truth cut candidate response</titre>
+        <auteur>
+            <nom>Sellers</nom>
+            <prenom>Megan</prenom>
+            <numero>6301</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="407">
+        <titre>Against only</titre>
+        <auteur>
+            <nom>Stark</nom>
+            <prenom>Kim</prenom>
+            <numero>9622</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="408">
+        <titre>Whether health walk how</titre>
+        <auteur>
+            <nom>Garcia</nom>
+            <prenom>Kevin</prenom>
+            <numero>3235</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="409">
+        <titre>Run join police</titre>
+        <auteur>
+            <nom>Freeman</nom>
+            <prenom>Logan</prenom>
+            <numero>6846</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="410">
+        <titre>Program sport her</titre>
+        <auteur>
+            <nom>Gross</nom>
+            <prenom>Kelly</prenom>
+            <numero>3911</numero>
+        </auteur>
+        <année>2025</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="411">
+        <titre>We we</titre>
+        <auteur>
+            <nom>Myers</nom>
+            <prenom>Virginia</prenom>
+            <numero>1530</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="412">
+        <titre>Own TV whose</titre>
+        <auteur>
+            <nom>Walker</nom>
+            <prenom>Ariana</prenom>
+            <numero>9129</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="413">
+        <titre>Former back get</titre>
+        <auteur>
+            <nom>Flores</nom>
+            <prenom>Daisy</prenom>
+            <numero>2453</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="414">
+        <titre>Land enter economic attack</titre>
+        <auteur>
+            <nom>Scott</nom>
+            <prenom>Daniel</prenom>
+            <numero>1020</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="415">
+        <titre>History run</titre>
+        <auteur>
+            <nom>Costa</nom>
+            <prenom>Nicole</prenom>
+            <numero>9078</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="416">
+        <titre>Goal heart stock small</titre>
+        <auteur>
+            <nom>Lane</nom>
+            <prenom>Katherine</prenom>
+            <numero>4695</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="417">
+        <titre>Later son almost</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Jose</prenom>
+            <numero>2715</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="418">
+        <titre>Game thousand</titre>
+        <auteur>
+            <nom>Martin</nom>
+            <prenom>Charles</prenom>
+            <numero>2525</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="419">
+        <titre>Order party lot all</titre>
+        <auteur>
+            <nom>Dunlap</nom>
+            <prenom>Frederick</prenom>
+            <numero>8113</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="420">
+        <titre>Approach former window</titre>
+        <auteur>
+            <nom>Ortiz</nom>
+            <prenom>Angela</prenom>
+            <numero>9849</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="421">
+        <titre>Produce father benefit</titre>
+        <auteur>
+            <nom>Long</nom>
+            <prenom>Andrea</prenom>
+            <numero>9043</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="422">
+        <titre>Approach about because</titre>
+        <auteur>
+            <nom>Colon</nom>
+            <prenom>Colleen</prenom>
+            <numero>8869</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="423">
+        <titre>Best deal point</titre>
+        <auteur>
+            <nom>Rowland</nom>
+            <prenom>Thomas</prenom>
+            <numero>2892</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="424">
+        <titre>Size likely thus</titre>
+        <auteur>
+            <nom>Baker</nom>
+            <prenom>Darlene</prenom>
+            <numero>7349</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="425">
+        <titre>He high cost</titre>
+        <auteur>
+            <nom>Williams</nom>
+            <prenom>Scott</prenom>
+            <numero>5315</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="426">
+        <titre>Student nor character</titre>
+        <auteur>
+            <nom>Horton</nom>
+            <prenom>Colin</prenom>
+            <numero>6632</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="427">
+        <titre>Including series dinner article hit</titre>
+        <auteur>
+            <nom>Mills</nom>
+            <prenom>Tammy</prenom>
+            <numero>8779</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="428">
+        <titre>Think live bad total research</titre>
+        <auteur>
+            <nom>Shaw</nom>
+            <prenom>Rachel</prenom>
+            <numero>3415</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="429">
+        <titre>We last we</titre>
+        <auteur>
+            <nom>Jackson</nom>
+            <prenom>Jason</prenom>
+            <numero>4157</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="430">
+        <titre>Amount bad raise</titre>
+        <auteur>
+            <nom>Harris</nom>
+            <prenom>Lynn</prenom>
+            <numero>3422</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="431">
+        <titre>Election treat trial attack hold</titre>
+        <auteur>
+            <nom>Sanders</nom>
+            <prenom>Mark</prenom>
+            <numero>5525</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="432">
+        <titre>Leader them skill performance mission</titre>
+        <auteur>
+            <nom>Barnes</nom>
+            <prenom>Robert</prenom>
+            <numero>3428</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="433">
+        <titre>Onto serve vote understand none</titre>
+        <auteur>
+            <nom>Garcia</nom>
+            <prenom>Justin</prenom>
+            <numero>9775</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="434">
+        <titre>There enough pressure occur</titre>
+        <auteur>
+            <nom>Kennedy</nom>
+            <prenom>Gerald</prenom>
+            <numero>7602</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="435">
+        <titre>Peace race I</titre>
+        <auteur>
+            <nom>Foster</nom>
+            <prenom>Natasha</prenom>
+            <numero>4892</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="436">
+        <titre>Second TV</titre>
+        <auteur>
+            <nom>Prince</nom>
+            <prenom>Andrew</prenom>
+            <numero>5965</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="437">
+        <titre>Exactly man receive</titre>
+        <auteur>
+            <nom>Garcia</nom>
+            <prenom>Misty</prenom>
+            <numero>3201</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="438">
+        <titre>Wind kitchen stay</titre>
+        <auteur>
+            <nom>Adams</nom>
+            <prenom>Robert</prenom>
+            <numero>2462</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="439">
+        <titre>Kid tree imagine</titre>
+        <auteur>
+            <nom>Washington</nom>
+            <prenom>Zachary</prenom>
+            <numero>7126</numero>
+        </auteur>
+        <année>2014</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="440">
+        <titre>Middle city</titre>
+        <auteur>
+            <nom>Collins</nom>
+            <prenom>William</prenom>
+            <numero>3222</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="441">
+        <titre>These ahead cover strategy student</titre>
+        <auteur>
+            <nom>Wright</nom>
+            <prenom>Stephen</prenom>
+            <numero>6904</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="442">
+        <titre>Ever statement measure</titre>
+        <auteur>
+            <nom>Reid</nom>
+            <prenom>David</prenom>
+            <numero>1500</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="443">
+        <titre>Head order concern</titre>
+        <auteur>
+            <nom>Harrell</nom>
+            <prenom>Brenda</prenom>
+            <numero>6730</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="444">
+        <titre>Clear thus see read</titre>
+        <auteur>
+            <nom>Mitchell</nom>
+            <prenom>Paul</prenom>
+            <numero>3669</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="445">
+        <titre>Sister Democrat determine different deal</titre>
+        <auteur>
+            <nom>Pearson</nom>
+            <prenom>William</prenom>
+            <numero>1145</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="446">
+        <titre>Treatment positive over across</titre>
+        <auteur>
+            <nom>King</nom>
+            <prenom>Linda</prenom>
+            <numero>6004</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="447">
+        <titre>Interest heavy give</titre>
+        <auteur>
+            <nom>King</nom>
+            <prenom>Steven</prenom>
+            <numero>9530</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="448">
+        <titre>However bill memory production successful</titre>
+        <auteur>
+            <nom>Brooks</nom>
+            <prenom>Deborah</prenom>
+            <numero>5631</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="449">
+        <titre>Range loss from</titre>
+        <auteur>
+            <nom>Hill</nom>
+            <prenom>Mark</prenom>
+            <numero>5536</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="450">
+        <titre>Prevent weight prepare</titre>
+        <auteur>
+            <nom>Lopez</nom>
+            <prenom>Zachary</prenom>
+            <numero>4937</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="451">
+        <titre>South sort</titre>
+        <auteur>
+            <nom>Greene</nom>
+            <prenom>Donna</prenom>
+            <numero>3292</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="452">
+        <titre>Pretty young</titre>
+        <auteur>
+            <nom>Green</nom>
+            <prenom>Robert</prenom>
+            <numero>7361</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="453">
+        <titre>On yes</titre>
+        <auteur>
+            <nom>Cabrera</nom>
+            <prenom>Matthew</prenom>
+            <numero>4643</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="454">
+        <titre>Point little wait grow feel</titre>
+        <auteur>
+            <nom>Jackson</nom>
+            <prenom>Diane</prenom>
+            <numero>3967</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="455">
+        <titre>Best campaign else</titre>
+        <auteur>
+            <nom>Stokes</nom>
+            <prenom>Kathryn</prenom>
+            <numero>3999</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="456">
+        <titre>Pressure develop development the</titre>
+        <auteur>
+            <nom>Fisher</nom>
+            <prenom>Olivia</prenom>
+            <numero>7089</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="457">
+        <titre>One less brother</titre>
+        <auteur>
+            <nom>Brown</nom>
+            <prenom>Cynthia</prenom>
+            <numero>2166</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="458">
+        <titre>Threat matter test high</titre>
+        <auteur>
+            <nom>Evans</nom>
+            <prenom>Brian</prenom>
+            <numero>3470</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="459">
+        <titre>Yeah garden would</titre>
+        <auteur>
+            <nom>Orozco</nom>
+            <prenom>Valerie</prenom>
+            <numero>3346</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="460">
+        <titre>Television Congress ball forward</titre>
+        <auteur>
+            <nom>Hatfield</nom>
+            <prenom>Lawrence</prenom>
+            <numero>1950</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="461">
+        <titre>Later decide</titre>
+        <auteur>
+            <nom>Ayala</nom>
+            <prenom>Barbara</prenom>
+            <numero>3595</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="462">
+        <titre>Size sister can its</titre>
+        <auteur>
+            <nom>Jordan</nom>
+            <prenom>Roy</prenom>
+            <numero>8821</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="463">
+        <titre>Above move room wear</titre>
+        <auteur>
+            <nom>Mcclain</nom>
+            <prenom>Katherine</prenom>
+            <numero>9700</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="464">
+        <titre>Adult above safe</titre>
+        <auteur>
+            <nom>Perez</nom>
+            <prenom>Natalie</prenom>
+            <numero>6113</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="465">
+        <titre>Bill me fill</titre>
+        <auteur>
+            <nom>Brown</nom>
+            <prenom>Brandon</prenom>
+            <numero>5764</numero>
+        </auteur>
+        <année>2009</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="466">
+        <titre>Road others full thousand</titre>
+        <auteur>
+            <nom>Cowan</nom>
+            <prenom>Matthew</prenom>
+            <numero>9031</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="467">
+        <titre>Seek close trade speech</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Jeffrey</prenom>
+            <numero>3149</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="468">
+        <titre>Safe operation college</titre>
+        <auteur>
+            <nom>Richardson</nom>
+            <prenom>Debra</prenom>
+            <numero>1612</numero>
+        </auteur>
+        <année>2006</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="469">
+        <titre>Theory eight movement any</titre>
+        <auteur>
+            <nom>Vang</nom>
+            <prenom>Ebony</prenom>
+            <numero>1323</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="470">
+        <titre>Ready indicate</titre>
+        <auteur>
+            <nom>James</nom>
+            <prenom>Amy</prenom>
+            <numero>8772</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="471">
+        <titre>Day rate act</titre>
+        <auteur>
+            <nom>Fisher</nom>
+            <prenom>Craig</prenom>
+            <numero>9524</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="472">
+        <titre>Performance red industry</titre>
+        <auteur>
+            <nom>Roach</nom>
+            <prenom>William</prenom>
+            <numero>2928</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="473">
+        <titre>Box blood cup</titre>
+        <auteur>
+            <nom>Gonzalez</nom>
+            <prenom>Jose</prenom>
+            <numero>9571</numero>
+        </auteur>
+        <année>2011</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="474">
+        <titre>Group important civil</titre>
+        <auteur>
+            <nom>Kelley</nom>
+            <prenom>Renee</prenom>
+            <numero>8875</numero>
+        </auteur>
+        <année>2013</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="475">
+        <titre>Doctor actually become book</titre>
+        <auteur>
+            <nom>Andrews</nom>
+            <prenom>Troy</prenom>
+            <numero>2475</numero>
+        </auteur>
+        <année>2001</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="476">
+        <titre>Avoid rich toward popular lead</titre>
+        <auteur>
+            <nom>Madden</nom>
+            <prenom>Joseph</prenom>
+            <numero>1820</numero>
+        </auteur>
+        <année>2004</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="477">
+        <titre>Spend them</titre>
+        <auteur>
+            <nom>Phelps</nom>
+            <prenom>Michael</prenom>
+            <numero>6123</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="478">
+        <titre>School believe serve animal</titre>
+        <auteur>
+            <nom>Christian</nom>
+            <prenom>Elizabeth</prenom>
+            <numero>3793</numero>
+        </auteur>
+        <année>2008</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="479">
+        <titre>Group just perform there</titre>
+        <auteur>
+            <nom>Davis</nom>
+            <prenom>Lisa</prenom>
+            <numero>3996</numero>
+        </auteur>
+        <année>2023</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="480">
+        <titre>Husband while</titre>
+        <auteur>
+            <nom>Nelson</nom>
+            <prenom>Paul</prenom>
+            <numero>8835</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="481">
+        <titre>Power someone both receive</titre>
+        <auteur>
+            <nom>Brown</nom>
+            <prenom>Sherri</prenom>
+            <numero>3611</numero>
+        </auteur>
+        <année>2000</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="482">
+        <titre>Indeed opportunity</titre>
+        <auteur>
+            <nom>Pham</nom>
+            <prenom>Erika</prenom>
+            <numero>3969</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="483">
+        <titre>Here grow agreement range stuff</titre>
+        <auteur>
+            <nom>Mcpherson</nom>
+            <prenom>David</prenom>
+            <numero>8997</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="484">
+        <titre>Thought key</titre>
+        <auteur>
+            <nom>Brown</nom>
+            <prenom>Diana</prenom>
+            <numero>1202</numero>
+        </auteur>
+        <année>2020</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="485">
+        <titre>Should office north within prove</titre>
+        <auteur>
+            <nom>Morgan</nom>
+            <prenom>Alexandra</prenom>
+            <numero>2560</numero>
+        </auteur>
+        <année>2017</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="486">
+        <titre>Product eat generation put</titre>
+        <auteur>
+            <nom>Cruz</nom>
+            <prenom>Mary</prenom>
+            <numero>1894</numero>
+        </auteur>
+        <année>2007</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="487">
+        <titre>Poor church</titre>
+        <auteur>
+            <nom>Allison</nom>
+            <prenom>Melissa</prenom>
+            <numero>3709</numero>
+        </auteur>
+        <année>2019</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="488">
+        <titre>Seem fly</titre>
+        <auteur>
+            <nom>Rivera</nom>
+            <prenom>Joshua</prenom>
+            <numero>9305</numero>
+        </auteur>
+        <année>2018</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="489">
+        <titre>Nearly her stage</titre>
+        <auteur>
+            <nom>Miller</nom>
+            <prenom>Sean</prenom>
+            <numero>8341</numero>
+        </auteur>
+        <année>2016</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="490">
+        <titre>Task language</titre>
+        <auteur>
+            <nom>Wilson</nom>
+            <prenom>Tyler</prenom>
+            <numero>1291</numero>
+        </auteur>
+        <année>2012</année>
+        <categorie>Littérature</categorie>
+    </livre>
+    <livre id="491">
+        <titre>Idea along</titre>
+        <auteur>
+            <nom>Dunn</nom>
+            <prenom>Margaret</prenom>
+            <numero>5990</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="492">
+        <titre>None pressure lay future stay</titre>
+        <auteur>
+            <nom>Velasquez</nom>
+            <prenom>Megan</prenom>
+            <numero>6439</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="493">
+        <titre>Should outside respond guy laugh</titre>
+        <auteur>
+            <nom>Davis</nom>
+            <prenom>Donna</prenom>
+            <numero>1035</numero>
+        </auteur>
+        <année>2022</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="494">
+        <titre>Great plant son natural</titre>
+        <auteur>
+            <nom>Brooks</nom>
+            <prenom>Daniel</prenom>
+            <numero>3689</numero>
+        </auteur>
+        <année>2002</année>
+        <categorie>Histoire</categorie>
+    </livre>
+    <livre id="495">
+        <titre>Cell response return blood</titre>
+        <auteur>
+            <nom>Carr</nom>
+            <prenom>Jacob</prenom>
+            <numero>7437</numero>
+        </auteur>
+        <année>2010</année>
+        <categorie>Informatique</categorie>
+    </livre>
+    <livre id="496">
+        <titre>Lead sit response</titre>
+        <auteur>
+            <nom>Rodriguez</nom>
+            <prenom>Robert</prenom>
+            <numero>3018</numero>
+        </auteur>
+        <année>2015</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+    <livre id="497">
+        <titre>Leader operation mean white</titre>
+        <auteur>
+            <nom>Smith</nom>
+            <prenom>Jill</prenom>
+            <numero>8091</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="498">
+        <titre>Lot meet TV concern official</titre>
+        <auteur>
+            <nom>Cross</nom>
+            <prenom>David</prenom>
+            <numero>7347</numero>
+        </auteur>
+        <année>2005</année>
+        <categorie>Économie</categorie>
+    </livre>
+    <livre id="499">
+        <titre>Paper focus thing industry participant</titre>
+        <auteur>
+            <nom>Schwartz</nom>
+            <prenom>John</prenom>
+            <numero>7518</numero>
+        </auteur>
+        <année>2024</année>
+        <categorie>Science</categorie>
+    </livre>
+    <livre id="500">
+        <titre>Wife laugh card include</titre>
+        <auteur>
+            <nom>Graves</nom>
+            <prenom>Kaitlyn</prenom>
+            <numero>5897</numero>
+        </auteur>
+        <année>2021</année>
+        <categorie>Mathématiques</categorie>
+    </livre>
+</bibliotheque>

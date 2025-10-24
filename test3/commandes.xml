@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commandes>
+  <commande id="C1">
+    <client>Fatou Diarra</client>
+    <livreId>L1</livreId>
+    <quantite>1</quantite>
+    <date>2025-03-10</date>
+  </commande>
+
+  <commande id="C2">
+    <client>Moussa Traoré</client>
+    <livreId>L2</livreId>
+    <quantite>2</quantite>
+    <date>2025-04-02</date>
+  </commande>
+
+  <commande id="C3">
+    <client>Amadou Konaté</client>
+    <livreId>L3</livreId>
+    <quantite>1</quantite>
+    <date>2025-05-15</date>
+  </commande>
+
+  <commande id="C4">
+    <client>Salimata Coulibaly</client>
+    <livreId>L1</livreId>
+    <quantite>3</quantite>
+    <date>2025-07-08</date>
+  </commande>
+</commandes>

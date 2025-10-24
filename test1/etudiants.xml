@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="css/style.css" type="text/css"?>
+<classe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="schema/etudiant.xsd">
+    <etudiant>
+        <nom>Nom 1</nom>
+        <prenom>Prenom 1</prenom>
+    </etudiant>
+    <etudiant>
+        <nom>Nom 2</nom>
+        <prenom>Prenom 2</prenom>
+    </etudiant>
+      <etudiant>
+        <nom>Nom 3</nom>
+        <prenom>Prenom 3</prenom>
+    </etudiant>
+</classe>

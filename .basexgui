@@ -1,0 +1,131 @@
+# Version
+UPDATEVERSION = 10.5
+CHECKUPDATES = false
+
+# Paths
+INPUTPATH = /home/ic/basex/
+DATAPATH = /home/ic/basex/
+WORKPATH = /home/ic/basex/
+PROJECTPATH = /home/ic/
+
+# Layout
+FONT = SansSerif
+MONOFONT = Monospaced
+FONTTYPE = 0
+FONTSIZE = 15
+ONLYMONO = false
+COLORRED = 21
+COLORGREEN = 14
+COLORBLUE = 7
+
+# Windows
+VIEWS = V H editor folder map plot - H text info table tree explore - - 
+GUISIZE0 = 1004
+GUISIZE1 = 748
+GUILOC0 = 10
+GUILOC1 = 10
+MAXSTATE = true
+SHOWBUTTONS = true
+SHOWINPUT = true
+SHOWSTATUS = true
+SHOWINFO = true
+SHOWMAP = true
+SHOWTABLE = true
+SHOWTEXT = true
+SHOWFOLDER = true
+SHOWEXPLORE = true
+SHOWPLOT = true
+SHOWEDITOR = true
+SHOWTREE = true
+SHOWPROJECT = true
+PREFTAB = 3
+LOOKANDFEEL = 
+LABELS = name,label,id
+SCROLLTABS = true
+MOUSEFOCUS = false
+XMLSUFFIXES = xml,xsd,svg,rdf,rss,rng,sch,xhtml
+ASCSORT = true
+CASESORT = true
+MERGEDUPL = false
+COLUMN = 1
+UNICODE = true
+SHOWMARGIN = true
+MARGIN = 80
+TABSPACES = true
+INDENT = 2
+SHOWINVISIBLE = true
+SHOWNL = false
+SHOWLINES = true
+MARKLINE = true
+SAVERUN = false
+PARSEPROJ = true
+AUTO = true
+FILES = *.xml, *.xq*
+SHOWHIDDEN = false
+SEARCHMODE = 0
+FILTERRT = false
+EXECRT = false
+DBNAME = db0
+LASTINSERT = 1
+
+# Visualizations
+MAPATTS = false
+MAPOFFSETS = 3
+MAPALGO = 0
+MAPWEIGHT = 0
+TREESLIM = true
+TREEATTS = false
+PLOTDOTS = 1
+PLOTXLOG = false
+PLOTYLOG = true
+MAXTEXT = 8388608
+MAXRESULTS = 500000
+
+# Search
+SEARCHED = 0
+REPLACED = 0
+
+# History
+COMMANDS = 9
+COMMANDS1 = CREATE DB test bibliotheques.xml
+COMMANDS2 = delete node /bibliotheque/livre[@id="L1"]/auteur/prenom
+COMMANDS3 = insert node <livre id="L2">   <titre>XQuery en action</titre>   <auteur>     <prenom>Marie</prenom>     <nom>Konaté</nom>   </auteur> </livre> into /bibliotheque
+COMMANDS4 = <html>   <body>     {       for $livre in doc("bibliotheques.xml")/bibliotheque/livre       return <div>               <h3>{$livre/titre}</h3>               <p>Auteur: {$livre/auteur/prenom} {$livre/auteur/nom}</p>              </div>     }   </body> </html>
+COMMANDS5 = /bibliotheque/livre[@id=’1’]/auteur/nom
+COMMANDS6 = /bibliotheque/livre[année > 2020]
+COMMANDS7 = //bibliotheque/livre/titre
+COMMANDS8 = /bibliotheque/livre/titre
+COMMANDS9 = //etudiant[nom = "Nom 2"]
+SEARCH = 2
+SEARCH1 = //livre[année > 2020]
+SEARCH2 = /bibliotheque/livre/titre
+XQUERY = 0
+
+# Files
+EDITOR = 9
+EDITOR1 = /home/ic/basex/test3/commandes.xml
+EDITOR2 = /home/ic/basex/test3/insert.xq
+EDITOR3 = /home/ic/basex/reque.xq
+EDITOR4 = /home/ic/basex/test3/req1.xq
+EDITOR5 = /home/ic/basex/test3/bibliotheques.xml
+EDITOR6 = /home/ic/basex/test1/etudiant.xsd
+EDITOR7 = /home/ic/basex/test2/albums.xq
+EDITOR8 = /home/ic/basex/test2/albums.xml
+EDITOR9 = /home/ic/basex/test1/etudiants.xml
+INPUTS = 1
+INPUTS1 = /home/ic/basex/
+OPEN = 9
+OPEN1 = /home/ic/basex/test1/etudiants.xml
+OPEN2 = /home/ic/basex/test2/albums.xml
+OPEN3 = /home/ic/basex/test2/albums.xq
+OPEN4 = /home/ic/basex/test1/etudiant.xsd
+OPEN5 = /home/ic/basex/test3/bibliotheques.xml
+OPEN6 = /home/ic/basex/test3/req1.xq
+OPEN7 = /home/ic/basex/reque.xq
+OPEN8 = /home/ic/basex/test3/insert.xq
+OPEN9 = /home/ic/basex/test3/commandes.xml
+PROJECTS = 0
+PROJFILES = 0
+PROJCONTS = 0
+
+# Local Options
